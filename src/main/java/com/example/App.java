@@ -1,4 +1,4 @@
-package com.bank; // Ensure this matches your package structure
+package com.example; // Ensure this matches your package structure
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
